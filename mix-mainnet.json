@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Miexs Network",
+		"url": "https://scan.miexs.com",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/mainnet.svg"
+	},
+	{
+		"title": "Miexs Explorer",
+		"url": "https://miexs.com",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/testnet.svg"
+	}
+]
