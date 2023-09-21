@@ -3,12 +3,12 @@
 		"title": "Miexs Network",
 		"url": "https://scan.miexs.com",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/mainnet.svg"
+		"icon": "https://raw.githubusercontent.com/chainkloud/frontend_info/mainnet.svg"
 	},
 	{
 		"title": "Miexs Explorer",
 		"url": "https://miexs.com",
 		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/divechan/brandkit/main/SVGs/testnet.svg"
+		"icon": "https://raw.githubusercontent.com/chainkloud/frontend_info/mainnet.svg"
 	}
 ]
