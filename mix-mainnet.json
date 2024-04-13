@@ -10,5 +10,11 @@
 		"url": "#",
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/chainkloud/frontend_info/master/mainnet.svg"
+	},
+	{
+		"title": "Miexs Explorer",
+		"url": "https://miexs.com",
+		"group": "Other",
+		"icon": "https://raw.githubusercontent.com/chainkloud/frontend_info/master/mainnet.svg"
 	}
 ]
