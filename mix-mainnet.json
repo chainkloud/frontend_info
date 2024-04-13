@@ -6,12 +6,6 @@
 		"icon": "https://raw.githubusercontent.com/chainkloud/frontend_info/master/mainnet.svg"
 	},
 	{
-		"title": "Miexs Explorer",
-		"url": "https://miexs.com",
-		"group": "Mainnets",
-		"icon": "https://raw.githubusercontent.com/chainkloud/frontend_info/master/mainnet.svg"
-	},
-	{
 		"title": "Miexs Network Testnet",
 		"url": "#",
 		"group": "Testnets",
